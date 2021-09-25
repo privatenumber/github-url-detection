@@ -8,6 +8,9 @@
 		"routes",
 		"detect",
 		"test",
+		"view",
+		"firefox",
+		"chrome",
 		"extension"
 	],
 	"repository": "fregante/github-url-detection",
